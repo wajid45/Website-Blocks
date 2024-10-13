@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html lang="en">
 <head>
-    <title>Login Form | Marketing Agency</title>
+    <title>Login Form </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
